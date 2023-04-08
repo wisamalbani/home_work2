@@ -11,7 +11,7 @@ class ElevatedButtonn extends StatelessWidget {
       alignment: Alignment.center,
       child: ElevatedButton(
         onPressed: () {},
-        const child: Text(
+        child: Text(
           "Click Me !",
           style: TextStyle(fontSize: 30),
         ),
